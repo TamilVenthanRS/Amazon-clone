@@ -2,26 +2,28 @@
   "name": "with-redux-toolkit",
   "version": "1.0.0",
   "scripts": {
-    "dev": "cross-env NODE_OPTIONS='--openssl-legacy-provider' next dev",
+    "dev": "next",
     "build": "next build",
-    "start": "next-scripts --openssl-legacy-provider start"
+    "start": "next start"
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@reduxjs/toolkit": "1.5.0",
     "@tailwindcss/line-clamp": "^0.2.0",
     "cross-env": "^7.0.3",
+    "export": "^0.1.337",
     "firebase": "^8.6.1",
     "firebase-admin": "^9.8.0",
     "install": "^0.13.0",
     "next": "latest",
     "npm": "^9.6.4",
-    "react": "17.0.1",
+    "react": "^18.2.0",
     "react-currency-format": "^1.1.0",
     "react-currency-formatter": "^1.1.0",
     "react-dom": "17.0.1",
     "react-redux": "7.2.2",
-    "react-responsive-carousel": "^3.2.23"
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1"
   },
   "license": "MIT",
   "devDependencies": {
