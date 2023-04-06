@@ -10415,14 +10415,14 @@
     "strip-ansi" "^6.0.1"
     "text-table" "^0.2.0"
 
-"react-dom@^0.14 || ^15.0.0-rc || ^15.0.0 || ^16.0.0-rc || ^16.0.0 || ^17.0.0", "react-dom@^16.6.0 || ^17", "react-dom@^16.9.0 || ^17", "react-dom@17.0.1":
-  "integrity" "sha512-6eV150oJZ9U2t9svnsspTMrWNyHc6chX0KzDeAOXftRa8bNeOKTTfCJ7KorIwenkHd2xqVTBTCZd79yk/lx/Ug=="
-  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.1.tgz"
-  "version" "17.0.1"
+"react-dom@^0.14 || ^15.0.0-rc || ^15.0.0 || ^16.0.0-rc || ^16.0.0 || ^17.0.0", "react-dom@^16.6.0 || ^17", "react-dom@^16.9.0 || ^17", "react-dom@^17.0.2":
+  "integrity" "sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA=="
+  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz"
+  "version" "17.0.2"
   dependencies:
     "loose-envify" "^1.1.0"
     "object-assign" "^4.1.1"
-    "scheduler" "^0.20.1"
+    "scheduler" "^0.20.2"
 
 "react-easy-swipe@^0.0.21":
   "integrity" "sha512-OeR2jAxdoqUMHIn/nS9fgreI5hSpgGoL5ezdal4+oO7YSSgJR8ga+PkYGJrSrJ9MKlPcQjMQXnketrD7WNmNsg=="
@@ -10536,7 +10536,7 @@
   optionalDependencies:
     "fsevents" "^2.3.2"
 
-"react@^0.14 || ^15.0.0-rc || ^15.0.0 || ^16.0.0-rc || ^16.0.0 || ^17.0.0", "react@^16.6.0 || ^17", "react@^16.8.0 || ^17.0.0", "react@^16.8.3 || ^17", "react@^16.9.0 || ^17", "react@^18.2.0", "react@>= 16", "react@15.x.x || 16.x.x || 17.x.x", "react@16.x", "react@17.0.1":
+"react@^0.14 || ^15.0.0-rc || ^15.0.0 || ^16.0.0-rc || ^16.0.0 || ^17.0.0", "react@^16.6.0 || ^17", "react@^16.8.0 || ^17.0.0", "react@^16.8.3 || ^17", "react@^16.9.0 || ^17", "react@^18.2.0", "react@>= 16", "react@15.x.x || 16.x.x || 17.x.x", "react@16.x", "react@17.0.2":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
@@ -10918,7 +10918,7 @@
   dependencies:
     "xmlchars" "^2.2.0"
 
-"scheduler@^0.20.1":
+"scheduler@^0.20.2":
   "integrity" "sha512-2eWfGgAqqWFGqtdMmcL5zCMK1U8KlXv8SQFGglL3CEtd0aDVDWgeF/YoCmvln55m5zSk3J/20hTaSBeSObsQDQ=="
   "resolved" "https://registry.npmjs.org/scheduler/-/scheduler-0.20.2.tgz"
   "version" "0.20.2"
